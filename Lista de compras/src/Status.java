@@ -1,4 +1,4 @@
-
+package lista_de_compras;
 public class Status {
 public boolean produtoPego;
 
