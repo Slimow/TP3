@@ -1,4 +1,4 @@
-
+package lista_de_compras;
 public class Local {
 private String mercado;
 private String acougue;
