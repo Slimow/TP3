@@ -1,4 +1,4 @@
-
+package lista_de_compras;
 public class Lista_de_compras {
 private String lugarCompras;
 
