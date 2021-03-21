@@ -1,13 +1,13 @@
-
+package lista_de_compras;
 public abstract class Produto {
 	private Produto nomeProduto;
 	private int quantidadeProduto;
-	private float preçoProduto;
+	private float preÃ§oProduto;
 	
 	public Produto(Produto n, int q, float p) {
 		nomeProduto = n;
 		quantidadeProduto = q;
-		preçoProduto = p;
+		preÃ§oProduto = p;
 		
 		
 	}
@@ -25,11 +25,11 @@ public abstract class Produto {
 	public void setQuantidadeProduto(int quantidadeProduto) {
 		this.quantidadeProduto = quantidadeProduto;
 	}
-	public float getPreçoProduto() {
-		return preçoProduto;
+	public float getPreÃ§oProduto() {
+		return preÃ§oProduto;
 	}
-	public void setPreçoProduto(float preçoProduto) {
-		this.preçoProduto = preçoProduto;
+	public void setPreÃ§oProduto(float preÃ§oProduto) {
+		this.preÃ§oProduto = preÃ§oProduto;
 	}
 	
 	
