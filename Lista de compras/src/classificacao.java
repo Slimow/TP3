@@ -1,4 +1,4 @@
-
+package lista_de_compras;
 public class classificacao {
     public String verduras;
     public String carnes;
